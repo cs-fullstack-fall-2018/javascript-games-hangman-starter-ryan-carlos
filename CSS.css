@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: green;
+    font-family: 'Press Start 2P', cursive;
+}
+h2{
+    text-align: center;
+    color: green;
+    font-family: 'Press Start 2P', cursive;
+}
+h4{
+    text-align: center;
+    color: green;
+    font-family: 'Press Start 2P', cursive;
+}
+body{
+    background-color: black;
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-align: center;
+
+}
+input{
+    background-color: black;
+    color: green;
+    border-color: green;
+}
